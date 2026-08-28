@@ -1,7 +1,7 @@
 # 🖥️ MiniOS: POSIX Systems Engineering Environment
 
 ### 🔗 Project Links
-*   **GitHub Repository:** `[INSERT YOUR GITHUB LINK HERE]`
+*   **GitHub Repository:** https://github.com/Bayzid-Hasan-11/MiniOS
 *   **Video Demonstration (2-5 min):** https://youtu.be/_oMEgzVpzAk
 
 ---
